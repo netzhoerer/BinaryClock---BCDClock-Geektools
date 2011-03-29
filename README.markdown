@@ -1,6 +1,3 @@
-Brought to by [TortVanc](http://twitter.com/tortvanc "@TortVanc")    
-[www.pamiLabs.com](www.pamiLabs.com "pamiLabs")    
-  
 ## BCD Clock:  
 * first install the _BinarySymbolic.ttf_ font  
 * place the Script _bcdClock.scpt_ e.g. to `~/Users/YOURNAME/Applications/geektool/`  
@@ -23,4 +20,5 @@ if you've more then one harddrive, the path to the Script should be `/Volumes/DR
 if you've more then one harddrive, the path to the Script should be `/Volumes/DRIVENAME/Users/YOURNAME/Application/geektools/binClock.scpt`  
   
 Feel Free to modify    
-by [@TortVanc](http://twitter.com/tortvanc "TortVanc@Twitter")
+by [@TortVanc](http://twitter.com/tortvanc "TortVanc@Twitter")  
+[www.pamiLabs.com](www.pamiLabs.com "pamiLabs")    

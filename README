@@ -1,26 +1,23 @@
-Brought to by TortVanc
-www.pamiLabs.com
+## BinaryClock:  
+* put the Script _binClock.scpt_ e.g. to `~/Users/YOURNAME/Applications/geektool/`  
+* open Geektools  
+* drop a new Shell to anywhere  
+* in the command section write osascript `~/Users/YOURNAME/Applications/geektool/binClock.scpt`
+(e.g. your Path)  
+  
+if you've more then one harddrive, the path to the Script should be `/Volumes/DRIVENAME/Users/YOURNAME/Application/geektools/binClock.scpt`  
+  
+  
+## BCD Clock:  
+* first install the _BinarySymbolic.ttf_ font  
+* place the Script _bcdClock.scpt_ e.g. to `~/Users/YOURNAME/Applications/geektool/`  
+* open Geektools  
+* drop a new Shell to anywhere  
+* in the command section write `osascript ~/Users/YOURNAME/Applications/geektool/bcdClock.scpt` 
+(or your Path)  
+* change the Fonttype to BinarySymbols  
+  
+if you've more then one harddrive, the path to the Script should be `/Volumes/DRIVENAME/Users/YOURNAME/Application/geektools/bcdClock.scpt`  
 
-
-BinaryClock:
--put the Script binClock.scpt e.g. to ~/Users/YOURNAME/Applications/geektool/
--open Geektools
--drop a new Shell to anywhere
--in the command section write osascript ~/Users/YOURNAME/Applications/geektool/binClock.scpt
-(e.g. your Path)
-
-if you've more then one harddrive, the path to the Script should be /Volumes/DRIVENAME/Users/YOURNAME/Application/geektools/binClock.scpt
-
-
-BCD Clock:
--first install the BinarySymbolic.ttf font
--place the Script bsdClock.scpt e.g. to ~/Users/YOURNAME/Applications/geektool/
--open Geektools
--drop a new Shell to anywhere
--in the command section write osascript ~/Users/YOURNAME/Applications/geektool/bcdClock.scpt
-(or your Path)
--change the Fonttype to BinarySymbols
-
-if you've more then one harddrive, the path to the Script should be /Volumes/DRIVENAME/Users/YOURNAME/Application/geektools/bcdClock.scpt
-
-Feel Free to modify
+Feel Free to modify    
+by [@TortVanc](http://twitter.com/tortvanc "TortVanc@Twitter")

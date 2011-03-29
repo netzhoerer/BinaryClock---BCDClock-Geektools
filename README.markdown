@@ -1,7 +1,6 @@
-Brought to by TortVanc
-http://twitter.com/tortvanc
-www.pamiLabs.com
-
+Brought to by [TortVanc](http://twitter.com/tortvanc "@TortVanc")    
+[www.pamiLabs.com](www.pamiLabs.com "pamiLabs")    
+  
 ## BCD Clock:  
 * first install the _BinarySymbolic.ttf_ font  
 * place the Script _bcdClock.scpt_ e.g. to `~/Users/YOURNAME/Applications/geektool/`  

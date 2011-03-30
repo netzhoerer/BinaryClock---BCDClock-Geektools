@@ -21,4 +21,4 @@ if you've more then one harddrive, the path to the Script should be `/Volumes/DR
   
 Feel Free to modify    
 by [@TortVanc](http://twitter.com/tortvanc "TortVanc@Twitter")  
-[www.pamiLabs.com](http://www.pamiLabs.com "pamiLabs")    
+[www.pamiLabs.com](http://www.pamiLabs.com/ "pamiLabs")    

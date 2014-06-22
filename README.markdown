@@ -20,4 +20,4 @@ if you've more then one harddrive, the path to the Script should be `/Volumes/DR
 if you've more then one harddrive, the path to the Script should be `/Volumes/DRIVENAME/Users/YOURNAME/Application/geektools/binClock.scpt`  
   
 Feel Free to modify    
-by [@TortVanc](http://twitter.com/tortvanc "TortVanc@Twitter")  
+by [@TortVanc](http://twitter.com/netzhoerer "TortVanc@netzhoerer")  
